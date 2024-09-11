@@ -37,4 +37,52 @@ There are 2 methods an agent account type can register a new user.
 
 - Since we have addressed how a new user can be registered onto the system in the agent - customer rebate distribution, let us now look at how joining in this format might your rebate distribution.
 
-- 
+- 1. A main agent account set by the system owner has a rebate%-bonus group for example of 13.5%. The main agent can now use the 2 formats of registering a new user to register new users but with one main condition, which is the new user (agent/customer) cannot have a higher rebate%-bonus group than the agent that is registering him. They can either have the same or lower rebate%-bonus group. So for example any new user account, that the main agent account registers will have a rebate%-bonus group of either 13.5% or lower but not higher than 13.5%. If the main agent creates a new user account (agent), that agent can also go on to register new user accounts (agents/customers) and give them the same or lesser rebate%-bonus group. And the logic follows in that order, remember though a customer cannot register any new user.
+- Since we have now established how agent - customer registration works, we will now look at how it affects the rebate distribution
+Let us first provide the parameters, formula and how we will calculate the rebate.
+- Example 1:
+- Main Agent: Has rebate percent of 13.5%
+- Subordinate (agent/customer) registered by main agent: Has rebate percent of 13.0%
+- Subordinate wagers a bet amount of $5.6
+Main agent gets a rebate discount of $0.028 of surbodinate wagered bet amount.
+
+![image](https://github.com/user-attachments/assets/0903964a-30e7-4d2d-a409-10e25271a657)
+
+
+![image](https://github.com/user-attachments/assets/ea07dd85-17f9-48eb-978d-6720bf00f2c0)
+
+- Example 2:
+- Main Agent: Has rebate percent of 13.5%
+- Surbodinate (agent) registered by main agent: Has rebate percent of 13.0%
+- Surbodinate (customer) registered by surbodinate agent: Has rebate percent of 12.5%
+-  Surbodinate Customer wagers a bet amount of $5.6
+  
+- In example 2, the flow is Main agent>Surbodinate agent>Surbodinate customer.
+  
+We apply the same formular and find out how much rebate amount discount the main agent and surbodinate agent will get fom the bet amount of the surbodinate account.
+
+
+![image](https://github.com/user-attachments/assets/7b021d85-832b-4639-8e04-65b8a65789a8)
+
+
+![image](https://github.com/user-attachments/assets/a2ddf1fb-bb79-48f4-a243-58f796c2c39d)
+
+Now we do same for surbodinate agent. Where we subtract the rebate% of the new user (customer) he registered from his rebate percent
+
+![image](https://github.com/user-attachments/assets/85f2bc9f-80f5-4e60-891c-ebac9303a017)
+
+![image](https://github.com/user-attachments/assets/474a754d-ea31-4faa-8b97-62885571c009)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

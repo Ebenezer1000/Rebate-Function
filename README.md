@@ -61,16 +61,13 @@ Main agent gets a rebate discount of $0.028 of surbodinate wagered bet amount.
 We apply the same formular and find out how much rebate amount discount the main agent and surbodinate agent will get fom the bet amount of the surbodinate account.
 
 
-![image](https://github.com/user-attachments/assets/7b021d85-832b-4639-8e04-65b8a65789a8)
+![image](https://github.com/user-attachments/assets/be7220ea-05f6-4c1d-94a7-358a4a373811)
 
 
-![image](https://github.com/user-attachments/assets/a2ddf1fb-bb79-48f4-a243-58f796c2c39d)
+Now we do same for subordinate agent. Where we subtract the rebate% of the new user (customer) he registered from his rebate%
 
-Now we do same for surbodinate agent. Where we subtract the rebate% of the new user (customer) he registered from his rebate percent
+![image](https://github.com/user-attachments/assets/e7c7066c-9ac2-48e9-ad9e-a4775e0b90e9)
 
-![image](https://github.com/user-attachments/assets/85f2bc9f-80f5-4e60-891c-ebac9303a017)
-
-![image](https://github.com/user-attachments/assets/474a754d-ea31-4faa-8b97-62885571c009)
 
 Remember the customer account type cannot receive this type of rebate amount, because this account type cannot register a new user hence there is no subordinate account directly to his account that can place a bet and which he can find the difference in rebate% to determine any rebate amount.
 

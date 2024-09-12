@@ -46,10 +46,9 @@ Let us first provide the parameters, formula and how we will calculate the rebat
 - Subordinate wagers a bet amount of $5.6
 Main agent gets a rebate discount of $0.028 of surbodinate wagered bet amount.
 
-![image](https://github.com/user-attachments/assets/0903964a-30e7-4d2d-a409-10e25271a657)
 
+![image](https://github.com/user-attachments/assets/41755531-c98b-4399-999c-067c19ef6c17)
 
-![image](https://github.com/user-attachments/assets/ea07dd85-17f9-48eb-978d-6720bf00f2c0)
 
 - Example 2:
 - Main Agent: Has rebate percent of 13.5%
@@ -76,7 +75,7 @@ Now we do same for surbodinate agent. Where we subtract the rebate% of the new u
 
 
 
-
+3
 
 
 

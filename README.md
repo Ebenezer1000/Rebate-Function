@@ -73,19 +73,25 @@ Now we do same for surbodinate agent. Where we subtract the rebate% of the new u
 ![image](https://github.com/user-attachments/assets/474a754d-ea31-4faa-8b97-62885571c009)
 
 Remember the customer account type cannot receive this type of rebate amount, because this account type cannot register a new user hence there is no subordinate account directly to his account that can place a bet and which he can find the difference in rebate% to determine any rebate amount.
+
 But, there is another form of rebate that a customer can receive, called self rebate. This type of rebate is assessible to all account types (agents /customer) based on one conditions.
 
+- Example 3:
 Let us use the same paramters in example 2 to illustrate this point.
 
 - Main Agent: Has rebate percent of 13.5%
-- Surbodinate (agent) registered by main agent: Has rebate percent of 13.0%
-- Surbodinate (customer) registered by surbodinate agent: Has rebate percent of 12.5%
-- Surbodinate Customer wagers a bet amount of $5.6
+- Subordinate (agent) registered by main agent: Has rebate percent of 13.0%
+- Subordinate (customer) registered by surbodinate agent: Has rebate percent of 12.5%
+- Subordinate Customer wagers a bet amount of $5.6
 
 ![image](https://github.com/user-attachments/assets/21cac027-3520-475d-aed7-80b3fc5ea512)
 
+You can see from the image, the subordinate customer had a form of rebate called self rebate. Let me explain how that self rebate can be received by any account type if they meet this one condition.
 
-
+Before any account type (agent or customer) wagers a bet, the user has the option to choose a high bonus prize or a low bonus prize. If the user chooses the high bonus prize, the self rebate distribution does'nt apply. Only the general rebate distribution from down agent or customer to top agent applies as shown in example 2. 
+But if the user (agent or customer} chooses the low bonus prize, the general rebate distribution occurs and also the user that wagered the bet also gets a self rebate where the lowest rebate% in the rebate% list which is 0%, is subtracted from his rebate%. And in the image you see 0% was subtracted fromn the user's (customer) rebate% of 12.5%. Then the result waas divided by 100 and multpilied by the user's bet amount he wagered. 
+So you see, if a user wagers a bet and chooses the low bonus prize, not only do the agents above him receive a rebate amount but the user also receives a rebate amount in the form of self rebate.
+I will attach an image to show the low bonus prize and high bonus prize that will influence whether a user recieves a self rebate or not.
 
 
 

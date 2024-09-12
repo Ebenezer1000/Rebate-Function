@@ -86,10 +86,18 @@ Let us use the same paramters in example 2 to illustrate this point.
 
 ![image](https://github.com/user-attachments/assets/21cac027-3520-475d-aed7-80b3fc5ea512)
 
-You can see from the image, the subordinate customer had a form of rebate called self rebate. Let me explain how that self rebate can be received by any account type if they meet this one condition.
+You can see from the image above, the subordinate customer had a form of rebate called self rebate.
 
-Before any account type (agent or customer) wagers a bet, the user has the option to choose a high bonus prize or a low bonus prize. If the user chooses the high bonus prize, the self rebate distribution does'nt apply. Only the general rebate distribution from down agent or customer to top agent applies as shown in example 2. 
-But if the user (agent or customer} chooses the low bonus prize, the general rebate distribution occurs and also the user that wagered the bet also gets a self rebate where the lowest rebate% in the rebate% list which is 0%, is subtracted from his rebate%. And in the image you see 0% was subtracted fromn the user's (customer) rebate% of 12.5%. Then the result waas divided by 100 and multpilied by the user's bet amount he wagered. 
+Also attached below is an image from a lottery website that has the same general rebate and self rebate implementation, with the same pararmeters of main agent rebate of 13.5%, subordinate agent rebate% of 13% and subordinate customer rebate% of 12.5%, where a bet amount of 5.6 was wagered and the user choosing a low bonus prize, hence ensuring the user got a self rebate 0.7 and the top agents above him getting 0.028 each as shown in our example too. 
+
+![image](https://github.com/user-attachments/assets/ba5166e3-ec28-40b2-bba4-8ddc23d46f4a)
+
+
+Let me explain how that self rebate can be received by any account type if they meet this one condition.
+
+Before any account type (agent or customer) wagers a bet, the user has the option to choose a high bonus prize or a low bonus prize. If the user chooses the high bonus prize, the self rebate distribution does'nt apply. Only the general rebate distribution from down agent or customer to top agent applies as shown in Example 2. 
+
+But if the user (agent or customer} chooses the low bonus prize, the general rebate distribution occurs and also the user that wagered the bet also gets a self rebate where the lowest rebate% in the rebate% list which is 0%, is subtracted from his rebate%. And in the image above in Eaxmple 3, you see 0% was subtracted fromn the user's (customer) rebate% of 12.5%. Then the result waas divided by 100 and multpilied by the user's bet amount he wagered. 
 So you see, if a user wagers a bet and chooses the low bonus prize, not only do the agents above him receive a rebate amount but the user also receives a rebate amount in the form of self rebate.
 I will attach an image to show the low bonus prize and high bonus prize that will influence whether a user recieves a self rebate or not.
 

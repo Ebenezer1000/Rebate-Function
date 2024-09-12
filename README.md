@@ -93,7 +93,12 @@ But if the user (agent or customer} chooses the low bonus prize, the general reb
 So you see, if a user wagers a bet and chooses the low bonus prize, not only do the agents above him receive a rebate amount but the user also receives a rebate amount in the form of self rebate.
 I will attach an image to show the low bonus prize and high bonus prize that will influence whether a user recieves a self rebate or not.
 
+![image](https://github.com/user-attachments/assets/08f80a3d-ad68-40ef-b93c-a034bd1317c5)
 
+As you can see in the highlighted part of the image above, there's a bonus prize of 1951 - 0% and 1681 - 13.5% for that particular game type. If the user chooses the lower bonus prize of 1681, the user will receive the self rebate after the bet is settled but if the user chooses the 1951 bouns prize, the user does'nt get any self rebate, only the genreal rebate distribution from down users to top users will apply.
+Also below is a part image of the rebate list quota, which begins from 15% at 2000 bonus group and runs down to 0% at 1700 bonus group. So if a user before wagering a bet chooses the low bonus prize, his rebate% in the rebate list is taken and subtracted from the lowest rebate% in the list which is 0%.  
+![image](https://github.com/user-attachments/assets/35ae767b-7a56-44ce-bb47-750c81204f70)
+ 
 
 
 

@@ -54,7 +54,7 @@ Main agent gets a rebate discount of $0.028 of surbodinate wagered bet amount.
 - Main Agent: Has rebate percent of 13.5%
 - Surbodinate (agent) registered by main agent: Has rebate percent of 13.0%
 - Surbodinate (customer) registered by surbodinate agent: Has rebate percent of 12.5%
--  Surbodinate Customer wagers a bet amount of $5.6
+- Surbodinate Customer wagers a bet amount of $5.6
   
 - In example 2, the flow is Main agent>Surbodinate agent>Surbodinate customer.
   
@@ -72,10 +72,20 @@ Now we do same for surbodinate agent. Where we subtract the rebate% of the new u
 
 ![image](https://github.com/user-attachments/assets/474a754d-ea31-4faa-8b97-62885571c009)
 
+Remember the customer account type cannot receive this type of rebate amount, because this account type cannot register a new user hence there is no subordinate account directly to his account that can place a bet and which he can find the difference in rebate% to determine any rebate amount.
+But, there is another form of rebate that a customer can receive, called self rebate. This type of rebate is assessible to all account types (agents /customer) based on one conditions.
+
+Let us use the same paramters in example 2 to illustrate this point.
+
+- Main Agent: Has rebate percent of 13.5%
+- Surbodinate (agent) registered by main agent: Has rebate percent of 13.0%
+- Surbodinate (customer) registered by surbodinate agent: Has rebate percent of 12.5%
+- Surbodinate Customer wagers a bet amount of $5.6
+
+![image](https://github.com/user-attachments/assets/21cac027-3520-475d-aed7-80b3fc5ea512)
 
 
 
-3
 
 
 
